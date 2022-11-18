@@ -17,7 +17,7 @@ Please select from the following choice menu items:
 3) Exit
 ''')
 
-        response = input("Which would you like to do?")
+        response = input("Which would you like to do? ")
 
         if response == "1":
                 f = open("Dockerfile", "r")
