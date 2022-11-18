@@ -1,3 +1,5 @@
+![Python build & test](https://github.com/nyu-software-engineering/se-welcome/actions/workflows/deploy.yaml/badge.svg)
+
 # Software Engineering Welcome
 
 A welcome container for new software engineering students.
