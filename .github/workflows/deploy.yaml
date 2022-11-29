@@ -1,4 +1,4 @@
-name: Build & deliver
+name: Dockerize
 on: [push]
 jobs:
   docker:
